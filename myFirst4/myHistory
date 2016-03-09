@@ -1,0 +1,18 @@
+    1  nanoq
+    2  nano
+    3  nano test.c
+    4  exit
+    5  git
+    6  git help
+    7  git config --global user.name "sasya3637"
+    8  git config --global user.email sasya3007@gmail.com
+    9  mkdir myFirst4
+   10  cd myFirst4
+   11  pwd
+   12  vim hello.c
+   13  git add .
+   14  git status
+   15  git commit
+   16  git remote add origin https://github.com/sasya3637/myFirst4.git
+   17  git push -u origin master
+   18  history>myHistory
